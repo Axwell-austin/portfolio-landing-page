@@ -7,3 +7,15 @@ background-color: #8d7127;
 #top img{
 margin-left: 720px;
 }
+.austin{
+    background-color:rgba(0, 0, 0, 0.63);;
+}
+.austin img{
+    margin-left: 470px;
+    padding: 9%;
+    border-radius: 2000px;
+}
+.starting{
+    text-align: center;
+    background-color: #8d7127;
+}
