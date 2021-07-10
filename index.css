@@ -1,14 +1,14 @@
 div{
     border: 2px dotted red;
 }
+#main{
+    background-color:rgba(0, 0, 0, 0.63);  
+}
 #top{
 background-color: #8d7127;
 }
 #top img{
 margin-left: 720px;
-}
-.austin{
-    background-color:rgba(0, 0, 0, 0.63);;
 }
 .austin img{
     margin-left: 470px;
@@ -17,5 +17,27 @@ margin-left: 720px;
 }
 .starting{
     text-align: center;
+    background-color: #8d7127;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+#aboutpage{
+    display: flex;
+    padding: 5%;
+}
+.hobbies{
+margin-left: 50px;
+}
+#aboutpage h1{
+background-color: #8d7127;
+text-align: center;
+margin-left: 150px;
+margin-top: 20px;
+margin-right: 150px;
+margin-bottom: 20px;
+}
+p{
     background-color: #8d7127;
 }
