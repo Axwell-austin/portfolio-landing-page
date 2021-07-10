@@ -19,6 +19,7 @@ margin-left: 720px;
     margin-top: 20px;
     margin-right: 50px;
     margin-bottom: 20px;
+    border-radius: 20px;
 }
 #aboutpage{
     display: flex;
@@ -43,9 +44,11 @@ font-style: italic;
 }
 .aboutme{
     background-color: #8d7127;
+    border-radius: 20px;
 }
 .hobbies{
     background-color: #8d7127;
+    border-radius: 20px;
 }
 #first{
     display: flex;
@@ -56,6 +59,7 @@ justify-content: center;
     background-color: #8d7127;
     margin-left: 10%;
     width: 363px;
+    border-radius: 20px;
 }
 .anitas h1{
     text-align: center;
@@ -72,6 +76,7 @@ justify-content: center;
     justify-content: center;
     margin-right: 10%;
     width: 370px;
+    border-radius: 20px;
 }
 .rental h1{
     text-align: center;
@@ -86,8 +91,8 @@ justify-content: center;
     width: 370px;
     background-color: #8d7127;
     margin-left: 36%;
-    height: 430px;
     margin-bottom: 30px;
+    border-radius: 20px;
 }
 .trench h1{
     text-align: center;
@@ -115,7 +120,4 @@ a:hover{
 #projects li{
     font-weight: 600;
     font-style: italic;
-}
-div{
-    border: 1px dotted red;
 }
