@@ -26,6 +26,7 @@ margin-left: 720px;
 #aboutpage{
     display: flex;
     padding: 5%;
+    justify-content: center;
 }
 .hobbies{
 margin-left: 50px;
@@ -39,11 +40,18 @@ margin-right: 150px;
 margin-bottom: 20px;
 }
 #aboutpage p{
+text-align: center;
+}
+.aboutme{
+    background-color: #8d7127;
+}
+.hobbies{
     background-color: #8d7127;
 }
 #first{
     display: flex;
     padding: 5%;
+justify-content: center;
 }
 .anitas{
     background-color: #8d7127;
@@ -64,6 +72,8 @@ margin-bottom: 20px;
 .rental{
     background-color: #8d7127;
     margin-left: 17%;
+    justify-content: center;
+    margin-right: 10%;
 }
 .rental p{
     text-align: center;
@@ -80,7 +90,7 @@ margin-bottom: 20px;
 .trench{
     width: 370px;
     background-color: #8d7127;
-    margin-left: 33%;
+    margin-left: 36%;
 }
 .trench p{
     text-align: center;
