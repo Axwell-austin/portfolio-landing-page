@@ -41,6 +41,8 @@ margin-bottom: 20px;
 }
 #aboutpage p{
 text-align: center;
+font-weight: 600;
+font-style: italic;
 }
 .aboutme{
     background-color: #8d7127;
@@ -57,10 +59,6 @@ justify-content: center;
     background-color: #8d7127;
     margin-left: 10%;
 }
-.anitas p{
-    text-align: center;
-    font-weight: 600;
-}
 .anitas h1{
     text-align: center;
     color: white;
@@ -75,10 +73,6 @@ justify-content: center;
     justify-content: center;
     margin-right: 10%;
 }
-.rental p{
-    text-align: center;
-    font-weight: 600;
-}
 .rental h1{
     text-align: center;
     color: white;
@@ -91,10 +85,6 @@ justify-content: center;
     width: 370px;
     background-color: #8d7127;
     margin-left: 36%;
-}
-.trench p{
-    text-align: center;
-    font-weight: 600;
 }
 .trench h1{
     text-align: center;
@@ -117,4 +107,8 @@ a:hover{
     font-size: 20px;
     padding: 5px 15px;
     border-radius: 20px;
+}
+#projects li{
+    font-weight: 600;
+    font-style: italic;
 }
