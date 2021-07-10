@@ -38,6 +38,59 @@ margin-top: 20px;
 margin-right: 150px;
 margin-bottom: 20px;
 }
-p{
+#aboutpage p{
     background-color: #8d7127;
+}
+#first{
+    display: flex;
+    padding: 5%;
+}
+.anitas{
+    background-color: #8d7127;
+    margin-left: 10%;
+}
+.anitas p{
+    text-align: center;
+    font-weight: 600;
+}
+.anitas h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.rental{
+    background-color: #8d7127;
+    margin-left: 17%;
+}
+.rental p{
+    text-align: center;
+    font-weight: 600;
+}
+.rental h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.trench{
+    width: 370px;
+    background-color: #8d7127;
+    margin-left: 33%;
+}
+.trench p{
+    text-align: center;
+    font-weight: 600;
+}
+.trench h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 600;
 }
